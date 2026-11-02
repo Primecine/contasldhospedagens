@@ -10,5 +10,11 @@
     "email": "joao@teste.com",
     "senhaHash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
     "dataCriacao": "2026-11-02T10:05:00Z"
+  },
+  {
+    "id": "usr_1793625891789326",
+    "email": "lula@gmail",
+    "senhaHash": "171ca74230db534807d2f5a770cc7bbe8da1958d6a26a378d522b32cdcd4fad1",
+    "dataCriacao": "2026-11-02T13:24:51.789Z"
   }
 ]
